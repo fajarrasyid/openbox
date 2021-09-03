@@ -1,0 +1,104 @@
+[MainWindow]
+DP1 Height 1368x768=739
+DP1 Width 1368x768=1368
+DP1 XPosition 1368x768=2
+DP1 YPosition 1368x768=2
+State=AAAA/wAAAAD9AAAAAgAAAAEAAAFaAAAA0fwCAAAAAfwAAAHyAAAA0QAAANEBAAAe+gAAAAECAAAAAvsAAAAKAG0AaQB4AGUAcgEAAAHwAAACCwAAALEA///++wAAABgAZQBmAGYAZQBjAHQAXwBzAHQAYQBjAGsBAAAAAP////8AAABoAP///gAAAAIAAAVYAAABnfwBAAAADPsAAAAUAHMAYwByAGUAZQBuAGcAcgBhAGIAAAAAAP////8AAABSAP////sAAAAaAGEAdQBkAGkAbwBzAHAAZQBjAHQAcgB1AG0AAAAAAP////8AAABnAP////wAAAAAAAABmQAAAHsA////+gAAAAIBAAAABfsAAAAWAHAAcgBvAGoAZQBjAHQAXwBiAGkAbgEAAAAA/////wAAAEsA////+wAAAB4AdAByAGEAbgBzAGkAdABpAG8AbgBfAGwAaQBzAHQBAAAAAP////8AAAAAAP////sAAAAWAGUAZgBmAGUAYwB0AF8AbABpAHMAdAEAAAAA/////wAAAAAA////+wAAAB4AYwBsAGkAcABfAHAAcgBvAHAAZQByAHQAaQBlAHMBAAAAAP////8AAABJAP////sAAAAYAHUAbgBkAG8AXwBoAGkAcwB0AG8AcgB5AQAAAAD/////AAAASwD////8AAABnwAAAeAAAAFAAP////oAAAAAAgAAAAP7AAAAGABjAGwAaQBwAF8AbQBvAG4AaQB0AG8AcgEAAABEAAABzQAAAMcA///++wAAABIAUwB1AGIAdABpAHQAbABlAHMAAAAAAP////8AAAD5AP////sAAAAOAGwAaQBiAHIAYQByAHkBAAAAAP////8AAACCAP///vwAAAOFAAAB0wAAAUAA////+gAAAAACAAAAAvsAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAQAAAL8AAAEsAAAAxwD///77AAAAGABuAG8AdABlAHMAXwB3AGkAZABnAGUAdAEAAAAA/////wAAAHwA///++wAAABYAdgBlAGMAdABvAHIAcwBjAG8AcABlAAAAAAD/////AAABIAD////7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAAAAP////8AAACaAP////sAAAAUAHIAZwBiAF8AcABhAHIAYQBkAGUAAAAAAP////8AAACVAP////sAAAASAGgAaQBzAHQAbwBnAHIAYQBtAAAAAAD/////AAABSwD////7AAAAEAB0AGUAeAB0AGUAZABpAHQAAAAAAP////8AAAF8AP////sAAAAQAGIAaQBuAF8AYwBsAGkAcAAAAAAA/////wAAAkEA////+wAAAB4AbwBuAGwAaQBuAGUAcgBlAHMAbwB1AHIAYwBlAHMAAAAAAP////8AAAE4AP///wAAA/gAAADRAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgEAAAIQ/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[OnlineResources]
+provider=Freesound
+zoom=7
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=$HOME/Videos,$HOME/Documents
+
+[RenderWidget]
+showoptions=false
+
+[Scope_Histogram]
+autoRefresh=true
+bEnabled=true
+gEnabled=true
+logScale=false
+rEnabled=true
+realtime=false
+rec601=false
+sEnabled=false
+yEnabled=true
+
+[Scope_RGB Parade]
+autoRefresh=true
+axis=false
+gradref=false
+paintmode=0
+realtime=false
+
+[Scope_Vectorscope]
+75PBox=false
+autoRefresh=true
+axis=false
+backgroundmode=0
+colorspace_ypbpr=false
+gain=1
+iqlines=false
+paintmode=0
+realtime=false
+
+[Scope_Waveform]
+autoRefresh=true
+paintmode=0
+realtime=false
+rec601=false
+
+[TitleWidget]
+background_alpha=0
+background_color=0,0,0
+dialog_geometry=AdnQywADAAAAAACGAAAACQAABNEAAALiAAAAiAAAAAsAAATPAAAC4AAAAAAAAAAABVgAAACIAAAACwAABM8AAALg
+font_color=255,255,255
+font_family=Segoe UI,-1,27,5,50,0,0,0,0,0
+font_italic=false
+font_outline=0
+font_outline_color=0,0,0
+font_pixel_size=27
+font_underlined=false
+font_weight=50
+rect_background_alpha=255
+rect_background_color=0,0,0
+rect_foreground_alpha=255
+rect_foreground_color=0,0,0
+rect_line_width=0
+use_grid=false
+
+[bin]
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAI/gAAAAcAAAAHAAAANAAAAAYAAAA0AAAABQAAAF4AAAAEAAAAPQAAAAMAAABFAAAAAgAAAG4AAAABAAAARAAAAGIAAAAIAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAIAAAAYgAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAABM
+
+[capture]
+decklink_extension=mov
+decklink_parameters=vcodec=dnxhd vb=145000k acodec=pcm_s16le threads=%threads
+grab_extension=mov
+grab_parameters=-crf 25 -vcodec libx264 -preset veryfast -threads 0
+v4l_extension=mpg
+v4l_parameters=qscale=4 ab=192k vcodec=mpeg2video acodec=mp2 threads=%threads
+
+[env]
+defaultprojectfolder[$e]=$HOME/Videos
+mltpath[$e]=/usr/share/mlt/profiles
+rendererpath[$e]=/usr/bin/melt6
+
+[timeline]
+trackheight=69
+
+[unmanaged]
+default_profile=atsc_1080p_25
+defaultrescaleheight=360
+defaultrescalewidth=640
+force_breeze=true
+monitor_audio=false
+producerslist=blipflash,count,qimage,qtext,kdenlivetitle,abnormal,color,colour,consumer,hold,loader,melt,melt_file,noise,timewarp,tone,xml,xml-string,xml-nogl,pgm,pango,pixbuf,avformat,avformat-novalidate,decklink,framebuffer,vorbis,slowmotion,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R
+project_fps=24
+use_dark_breeze=true
+widgetstyle=Default
+
+[version]
+version=21.04.3

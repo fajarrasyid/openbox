@@ -1,0 +1,9 @@
+xrandr -s 1368x768
+xrandr --output DP1 --mode 1368x768_60.00
+#xrandr --output eDP1 --off
+feh --bg-max /home/vengenzr/Documents/kuuga.png
+picom &
+tint2 &
+mpv -volume=100 /home/vengenzr/.config/openbox/urip
+pipewire &
+pipewire-pulse &

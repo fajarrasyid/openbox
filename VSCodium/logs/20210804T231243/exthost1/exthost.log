@@ -1,0 +1,40 @@
+[2021-08-04 23:12:46.267] [exthost] [info] extension host started
+[2021-08-04 23:12:46.268] [exthost] [info] Skipping acquiring lock for /home/vengenzr/.config/VSCodium/User/workspaceStorage/cd2624d714992f77028ed6de68e084ad.
+[2021-08-04 23:12:46.316] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-08-04 23:12:46.316] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-08-04 23:12:46.319] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-04 23:12:46.320] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/git/dist/main
+[2021-08-04 23:12:46.472] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-04 23:12:46.472] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/github/dist/extension.js
+[2021-08-04 23:12:46.501] [exthost] [info] eager extensions activated
+[2021-08-04 23:12:46.503] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-08-04 23:12:46.503] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-08-04 23:12:46.615] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-08-04 23:12:46.615] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-08-04 23:12:46.623] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-08-04 23:12:46.623] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-08-04 23:12:46.626] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-08-04 23:12:46.626] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-08-04 23:13:15.489] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-08-04 23:13:16.494] [exthost] [info] exiting with code 0
+[2021-08-04 23:13:17.142] [exthost] [info] extension host started
+[2021-08-04 23:13:17.142] [exthost] [info] Skipping acquiring lock for /home/vengenzr/.config/VSCodium/User/workspaceStorage/91009dd0eaa03302e99c31c24df8d4cf.
+[2021-08-04 23:13:17.171] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-08-04 23:13:17.171] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-08-04 23:13:17.174] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-04 23:13:17.174] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/git/dist/main
+[2021-08-04 23:13:17.287] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-04 23:13:17.287] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/github/dist/extension.js
+[2021-08-04 23:13:17.334] [exthost] [info] eager extensions activated
+[2021-08-04 23:13:17.339] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-08-04 23:13:17.339] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-08-04 23:13:17.432] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-08-04 23:13:17.432] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-08-04 23:13:17.436] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-08-04 23:13:17.437] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-08-04 23:13:17.438] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-08-04 23:13:17.438] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-08-04 23:13:19.609] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2021-08-04 23:13:19.609] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2021-08-04 23:53:31.274] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-08-04 23:53:32.289] [exthost] [info] exiting with code 0

@@ -1,0 +1,15 @@
+From vengenzr Thu Aug  5 19:01:42 2021
+Date: Thu, 05 Aug 2021 19:01:42 +0700
+To: vengenzr
+User-Agent: mail v14.9.22
+
+Subject: editor saved ``/home/vengenzr/Downloads/yourfiles/suzuranteam-ti3-pw2021/.git/rebase-merge/git-rebase-todo''
+You were editing the file "/home/vengenzr/Downloads/yourfiles/suzuranteam-ti3-pw2021/.git/rebase-merge/git-rebase-todo"
+at <Thu Aug  5 19:01> on the machine ``rasyidz''
+when the editor was killed.
+
+You can retrieve most of your changes to this file
+using the "recover" command of the editor.
+An easy way to do this is to give the command "vi -r /home/vengenzr/Downloads/yourfiles/suzuranteam-ti3-pw2021/.git/rebase-merge/git-rebase-todo".
+This method also works using "ex" and "edit".
+

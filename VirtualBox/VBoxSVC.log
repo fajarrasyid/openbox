@@ -1,0 +1,49 @@
+00:00:00.005999 main     VirtualBox XPCOM Server 6.1.26 r145957 linux.amd64 (Jul 29 2021 17:06:43) release log
+00:00:00.006004 main     Log opened 2021-09-02T00:38:17.046559000Z
+00:00:00.006006 main     Build Type: release
+00:00:00.006009 main     OS Product: Linux
+00:00:00.006011 main     OS Release: 5.13.12-zen1-1-zen
+00:00:00.006013 main     OS Version: #1 ZEN SMP PREEMPT Thu, 19 Aug 2021 06:03:58 +0000
+00:00:00.006046 main     DMI Product Name: HP Laptop 14-bs1xx
+00:00:00.006057 main     DMI Product Version: Type1ProductConfigId
+00:00:00.006064 main     Firmware type: UEFI
+00:00:00.007594 main     Secure Boot: Disabled
+00:00:00.007675 main     Host RAM: 7835MB (7.6GB) total, 7436MB (7.2GB) available
+00:00:00.007681 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.007682 main     Process ID: 17390
+00:00:00.007683 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.011520 main     IPC socket path: /tmp/.vbox-vengenzr-ipc/ipcd
+00:00:00.130517 nspr-2   VirtualBox: object creation starts
+00:00:00.130734 nspr-2   Home directory: '/home/vengenzr/.config/VirtualBox'
+00:00:00.131620 nspr-2   Loading settings file "/home/vengenzr/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.144319 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.159736 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.160918 nspr-2   HostDnsMonitor: initializing
+00:00:00.161523 nspr-2   NAT: resolv.conf: nameserver ::1
+00:00:00.161555 nspr-2   NAT: resolv.conf: nameserver 127.0.0.1
+00:00:00.161581 nspr-2   HostDnsMonitor: updating information
+00:00:00.161616 nspr-2   HostDnsMonitor: old information
+00:00:00.161624 nspr-2     no server entries
+00:00:00.161631 nspr-2     no domain set
+00:00:00.161637 nspr-2     no search string entries
+00:00:00.161644 nspr-2   HostDnsMonitor: new information
+00:00:00.161650 nspr-2     server 1: ::1
+00:00:00.161658 nspr-2     server 2: 127.0.0.1
+00:00:00.161665 nspr-2     no domain set
+00:00:00.161671 nspr-2     no search string entries
+00:00:00.169559 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.170604 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.183179 nspr-2   Loading settings file "/home/vengenzr/VirtualBox VMs/10/10.vbox" with version "1.17-linux"
+00:00:00.185819 nspr-2   Loading settings file "/home/vengenzr/VirtualBox VMs/7/7.vbox" with version "1.17-linux"
+00:00:00.187651 nspr-2   VirtualBox: object created
+00:00:11.547625 nspr-3   Saving settings file "/home/vengenzr/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:11.596539 nspr-4   Saving settings file "/home/vengenzr/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:11.611697 nspr-3   Saving settings file "/home/vengenzr/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:17.138482 main     VirtualBox: object deletion starts
+00:00:17.138579 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/vengenzr/VirtualBox VMs/10/1.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:17.138937 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/vengenzr/VirtualBox VMs/7/7.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:17.139652 main     HostDnsMonitor: shutting down ...
+00:00:17.142527 main     HostDnsMonitor: shut down
+00:00:17.198652 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:22.146930 main     {00007f59ec017240} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:22.150927 main     VirtualBox: object deleted

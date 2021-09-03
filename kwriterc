@@ -1,0 +1,152 @@
+[General Options]
+ShowMenuBar=true
+ShowPath=false
+ShowStatusBar=true
+
+[KTextEditor Document]
+Allow End of Line Detection=true
+BOM=false
+Backup Local=false
+Backup Prefix=
+Backup Remote=false
+Backup Suffix=~
+Camel Cursor=true
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=true
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=normal
+Indentation Width=4
+Keep Extra Spaces=false
+Line Length Limit=4096
+Newline at End of File=true
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=0
+ReplaceTabsDyn=true
+Show Spaces=0
+Show Tabs=true
+Smart Home=true
+Swap Directory=
+Swap File Mode=1
+Swap Sync Interval=15
+Tab Handling=2
+Tab Width=4
+Trailing Marker Size=1
+Word Wrap=false
+Word Wrap Column=80
+
+[KTextEditor Editor]
+Encoding Prober Type=1
+Fallback Encoding=ISO-8859-1
+
+[KTextEditor Renderer]
+Animate Bracket Matching=false
+Auto Color Theme Selection=true
+Color Theme=Breeze Dark
+Font=monospace,11,-1,2,50,0,0,0,0,0
+Schema=KDE
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=false
+
+[KTextEditor View]
+Allow Mark Menu=true
+Auto Brackets=false
+Auto Center Lines=0
+Auto Completion=true
+Auto Completion Preselect First Entry=true
+Backspace Remove Composed Characters=false
+Bookmark Menu Sorting=0
+Bracket Match Preview=false
+Chars To Enclose Selection=
+Default Mark Type=1
+Dynamic Word Wrap=true
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap At Static Marker=false
+Dynamic Word Wrap Indicators=1
+Dynamic Wrap not at word boundaries=false
+Fold First Line=false
+Folding Bar=true
+Folding Preview=true
+Icon Bar=false
+Input Mode=0
+Keyword Completion=true
+Line Modification=false
+Line Numbers=true
+Maximum Search History Size=100
+Mouse Paste At Cursor Position=false
+Persistent Selection=false
+Scroll Bar Marks=false
+Scroll Bar Mini Map=true
+Scroll Bar Mini Map All=true
+Scroll Bar Mini Map Width=60
+Scroll Bar MiniMap=true
+Scroll Bar Preview=true
+Scroll Past End=false
+Search/Replace Flags=140
+Show Line Count=false
+Show Scrollbars=0
+Show Word Count=false
+Smart Copy Cut=false
+Text Drag And Drop=true
+User Sets Of Chars To Enclose Selection=
+Vi Input Mode Steal Keys=false
+Vi Relative Line Numbers=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+
+[KTextEditor::Search]
+Replace History=kitty,Tahoma,Segoe UI
+Search History=swaymsg,down,contain,resize,tiling,toggle,floati,mod+shi,$mod+p,2,terminal,backgro,$mod+c,$mod+c ,menu,logo,screen,scree,11,user,neofetch,small,xdotool,xfce4-terminal,xfce,top,Log Out,crop,asp,Timos,Arimo,font,size,br,colorscript,csmoe,Tinos,fun,webcam,TEMP,rm,bord,border,height,theme
+
+[MainWindow]
+DP-1 Height 1368x768=768
+DP-1 Width 1368x768=1368
+DP-1 Window-Maximized 1368x768=true
+DP1 Height 1368x768=735
+DP1 Width 1368x768=680
+DP1 Window-Maximized 1024x768=true
+DP1 Window-Maximized 1368x768=true
+DP1 XPosition 1368x768=686
+DP1 YPosition 1368x768=2
+State=AAAA/wAAAAD9AAAAAAAAAqcAAAJSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 DP-1 Height 1368x768=768
+eDP-1 DP-1 Width 1368x768=1368
+eDP-1 DP-1 Window-Maximized 1024x768=true
+eDP-1 DP-1 Window-Maximized 1366x768=true
+eDP-1 DP-1 Window-Maximized 1368x768=true
+eDP-1 DP-1 Window-Maximized 800x600=true
+eDP-1 Window-Maximized 1366x768=true
+eDP1 DP1 Height 1366x768=707
+eDP1 DP1 Width 1366x768=1024
+eDP1 DP1 XPosition 1366x768=0
+eDP1 DP1 YPosition 1366x768=29
+eDP1 Height 1366x768=657
+eDP1 Width 1366x768=679
+eDP1 XPosition 1366x768=685
+eDP1 YPosition 1366x768=80
+
+[Recent Files]
+File1[$e]=/etc/sddm.conf
+File2[$e]=$HOME/.config/sway/config
+File3[$e]=/run/systemd/users/1000
+File4[$e]=/run/systemd/sessions/2
+File5[$e]=/run/systemd/seats/seat0
+File6[$e]=/etc/sysctl.d/99_magic_sysrq.conf
+File7[$e]=$HOME/.config/sway/autostart
+File8[$e]=$HOME/.xprofile
+File9[$e]=$HOME/.config/openbox/autostart
+Name1[$e]=sddm.conf
+Name2[$e]=config
+Name3[$e]=1000
+Name4[$e]=2
+Name5[$e]=seat0
+Name6[$e]=99_magic_sysrq.conf
+Name7[$e]=autostart
+Name8[$e]=.xprofile
+Name9[$e]=autostart
